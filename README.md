@@ -5,6 +5,7 @@ Web 3D interactive structural design tools based on reciprocal polyhedral diagra
 (e.g. Load assets/models/test/example_03/diagram.json)
 
 PennDesign RA project
+Start dual structure developing.
 
 #### Current-Test-ScreenShot
 ![](img/test5.png)
